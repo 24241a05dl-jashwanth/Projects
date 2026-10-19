@@ -23,6 +23,6 @@ bal=study-games
 bestday=np.argmax(bal)
 worstday=np.argmin(bal)
 print("Best day for study:",bestday+1)
-print("Worst day for study:",worstday+1)
+print("Worst day for study:",worstday+)
 
 
